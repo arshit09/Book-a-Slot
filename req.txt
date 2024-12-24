@@ -6,3 +6,4 @@ pynput
 pyperclip
 pytesseract
 colorthief
+python-telegram-bot
